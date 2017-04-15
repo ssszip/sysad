@@ -128,3 +128,11 @@
 # 画素
  =ピクセル
  1ピクセル1ビットだと、ピクセルは2（2^1)色しか表現できない
+
+# RAID（Redundant Arrays of Inexpensive Disks )
+ 複数台のハードディスクを組み合わせることで仮想的な1台のハードディスクとして運用し冗長性を向上させる技術
+ 0~6のレベルがあり、よく使われるのがRAID 0、1、5、61、5、6
+
+# クイックソート
+
+# LIFO（Last In, First Out, 後入れ先出し）。FILO（First In, Last Out）
